@@ -1,0 +1,25 @@
+.main-content {
+    padding: 20px;
+}
+
+.highlight-window {
+    border: 1px dashed #ccc;
+    margin: 20px 0;
+}
+
+.divider {
+    height: 1px;
+    background-color: #ccc;
+    margin: 20px 0;
+}
+
+.purchase-info {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.price {
+    font-size: 1.5em;
+    font-weight: bold;
+}
